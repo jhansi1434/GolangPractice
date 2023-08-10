@@ -4,4 +4,7 @@ use (
 	./01home
 	./02Variables
 	./03UserInput
+	./04ConversionsInGoLang
+	./Pointer
+	./05Array
 )
