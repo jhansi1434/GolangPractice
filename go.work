@@ -6,6 +6,16 @@ use (
 	./03UserInput
 	./04ConversionsInGoLang
 	./05Array
-	./Pointer
-	./SwitchCase
+	./06Slices
+	./07Map
+	./08Struts
+	./09ifelse
+	./10Pointer
+	./11SwitchCase
+	./12Functions
+	./13Loopbreak
+	./14Defer
+	./16methods
+	./17Interfaces
+	
 )
