@@ -18,9 +18,9 @@ func main() {
 	Age:=10
 	if Age > 20{
 		age="my is not 20"
-	}else if Age < 9{
+	} else if Age < 9{
 		age="my age is 23"
-	}else{
+	} else{
 		age="my age is above 20"
 	}
 
