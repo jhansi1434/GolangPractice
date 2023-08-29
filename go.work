@@ -1,0 +1,22 @@
+go 1.20
+
+use (
+	./01home
+	./02Variables
+	./03UserInput
+	./04ConversionsInGoLang
+	./05Array
+	./06Slices
+	./07Map
+	./08Struts
+	./09ifelse
+	./10Pointer
+	./11SwitchCase
+	./12Functions
+	./13Loopbreak
+	./14Defer
+	./16methods
+	./17Interfaces
+	./18Goroutines
+	./Mongodb
+)
